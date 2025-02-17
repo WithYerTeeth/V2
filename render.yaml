@@ -3,7 +3,7 @@ services:
 - type: web
   name: ixl
   runtime: node
-  repo: https://github.com/FrogiesArcade/FrogiesArcade-v2-Portable
+  repo: None
   plan: free
   region: oregon
   buildCommand: npm i
